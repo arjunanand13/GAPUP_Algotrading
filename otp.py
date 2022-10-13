@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  6 15:23:50 2021
-
-@author: akhil
-"""
-
 import imaplib
 import email
 import html
